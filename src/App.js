@@ -5,7 +5,8 @@ import './App.css';
 export default function App() {
   return (
   <div className="App">
-    Weather App
+    <div className="container">
+    <h1>Weather App</h1>
      <footer>
      This project is coded by Katia Barnave and is
     <a href="https://github.com/Katya383/react-katia-weather-app"
@@ -14,7 +15,14 @@ export default function App() {
        >
        {"  "}open-sourced on Github
        </a>
-     </footer>
+       {" "}Hosted on Netlify
+       <a href ="https://youthful-morse-052462.netlify.app/"
+       target="_blank"
+       rel="noreferrer"
+       >
+          </a>
+        </footer>
+       </div>
     </div>
 );
   } 
