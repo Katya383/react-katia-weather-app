@@ -1,0 +1,20 @@
+
+.Weather {
+  border: 2px solid #708090;
+  font-family:Roboto,sans-sarif;
+  color:#575556;
+}
+
+.Weather h1 {
+  font-weight: 100;
+  font-size: 24px;
+  line-height: 29px;
+  text-align: left;
+}
+
+.Weather li {
+  font-size: 16px;
+  line-height: 19 px;
+  text-align: left;
+  list-style: none;
+}
