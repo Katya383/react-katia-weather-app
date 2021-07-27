@@ -18,12 +18,6 @@ export default function App() {
             {"  "}open-sourced on Github
           </a>
           {"  "}
-          Hosted on Netlify
-          <a
-            href="https://youthful-morse-052462.netlify.app/"
-            target="_blank"
-            rel="noreferrer"
-          ></a>
         </footer>
       </div>
     </div>
