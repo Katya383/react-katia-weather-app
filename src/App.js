@@ -17,12 +17,14 @@ export default function App() {
           >
             {"  "}open-sourced on Github
           </a>{" "}
-          and hosted on Netlify
+          and{" "}
           <a
             href="https://youthful-morse-052462.netlify.app"
             target="_blank"
             rel="noreferrer"
-          ></a>
+          >
+            hosted on Netlify
+          </a>
         </footer>
       </div>
     </div>
