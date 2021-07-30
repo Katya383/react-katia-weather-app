@@ -13,7 +13,7 @@ export default function App() {
           <a
             href="https://github.com/Katya383/react-katia-weather-app"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             {"  "}open-sourced on Github
           </a>{" "}
@@ -21,7 +21,7 @@ export default function App() {
           <a
             href="https://youthful-morse-052462.netlify.app"
             target="_blank"
-            rel="noreferrer"
+            rel=" noopener noreferrer"
           >
             hosted on Netlify
           </a>
